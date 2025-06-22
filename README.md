@@ -11,17 +11,13 @@ A fully responsive, dark-mode-ready digital e-book landing page built with **Nex
 - [Features](#features)
 - [Installation](#installation)
 - [Components Overview](#components-overview)
-- [Configuration](#configuration)
-- [Dependencies](#dependencies)
-- [Screenshots](#screenshots)
 - [Contributors](#contributors)
-- [License](#license)
-
+- [Contact](#-contact)  
 ---
 
 ## 🚀 Demo
 
-![Live Link](https://e-book-dieqnxlnl-amrashraf15s-projects.vercel.app/)
+[Live Link](https://e-book-dieqnxlnl-amrashraf15s-projects.vercel.app/)
 
 ---
 ## 🛠 Built With
@@ -96,3 +92,14 @@ A fully responsive, dark-mode-ready digital e-book landing page built with **Nex
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+---
+
+## 📬 Contact
+
+**👤 Developer:** Amr Ashraf  
+**📧 Email:** [amrashraf1592@gmail.com](mailto:amrashraf1592@gmail.com)  
+**🐙 GitHub:** [amrashraf15](https://github.com/amrashraf15)
+
+---
+
