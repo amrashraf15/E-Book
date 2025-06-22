@@ -24,6 +24,23 @@ A fully responsive, dark-mode-ready digital e-book landing page built with **Nex
 ![Live Link](https://e-book-dieqnxlnl-amrashraf15s-projects.vercel.app/)
 
 ---
+## 🛠 Built With
+
+- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)  
+- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)  
+- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)  
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)  
+- ![Radix UI](https://img.shields.io/badge/Radix_UI-000000?style=for-the-badge&logo=react)  
+- ![Lucide Icons](https://img.shields.io/badge/Lucide-000000?style=for-the-badge&logo=lucide)  
+- ![React Icons](https://img.shields.io/badge/React_Icons-61DAFB?style=for-the-badge&logo=react)  
+- ![React Multi Carousel](https://img.shields.io/badge/react--multi--carousel-FF6F61?style=for-the-badge)  
+- ![Next Themes](https://img.shields.io/badge/next--themes-000000?style=for-the-badge)  
+- ![AOS Animation](https://img.shields.io/badge/AOS_Animation-8A2BE2?style=for-the-badge)  
+- ![Class Variance Authority](https://img.shields.io/badge/class--variance--authority-6B7280?style=for-the-badge)
+
+
+
+---
 
 ## ✨ Features
 
