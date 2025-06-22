@@ -55,6 +55,19 @@ A fully responsive, dark-mode-ready digital e-book landing page built with **Nex
 - ⚡ Optimized with `next/image` for fast performance
 
 ---
+### 1. Clone the Repository  
+   ```sh
+   git clone https://github.com/yourusername/ebook-landing-page.git
+   cd ebook-landing-page
+   ```
+2. Install dependencies
+   ```sh
+    npm install
+   ```
+3. Run the development server
+  ```sh
+    npm run dev
+   ```
 
 ---
 
