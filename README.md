@@ -3,8 +3,8 @@
 A fully responsive, dark-mode-ready digital e-book landing page built with **Next.js**, **Tailwind CSS**, and **TypeScript**. This modern, high-performance website promotes digital products (ebooks) and features interactive sections like pricing plans, reviews, benefits, and best sellers.
 
 <p align="center">
-  <img src="public/images/black.png" alt="Dark Theme" width="50%"  />
-  <img src="public/images/White.png" alt="White Theme" width="50%" />
+  <img src="public/images/black.png" alt="Dark Theme" width="45%" />
+  <img src="public/images/White.png" alt="Light Theme" width="45%" />
 </p>
 
 
