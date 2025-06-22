@@ -7,9 +7,9 @@ A fully responsive, dark-mode-ready digital e-book landing page built with **Nex
 ## 📚 Table of Contents
 
 - [Demo](#demo)
+- [Built With](#BuiltWith)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Components Overview](#components-overview)
 - [Configuration](#configuration)
 - [Dependencies](#dependencies)
@@ -68,6 +68,26 @@ A fully responsive, dark-mode-ready digital e-book landing page built with **Nex
   ```sh
     npm run dev
    ```
+
+---
+
+## 🧩 Components Overview
+
+| Component       | Description                                      |
+|-----------------|--------------------------------------------------|
+| `Navbar`        | Sticky top nav, responsive with theme toggle     |
+| `Hero`          | Landing banner with image and CTAs               |
+| `About`         | Summary of the book's value                      |
+| `Benefits`      | Highlight key ebook advantages                   |
+| `BestSelling`   | Book showcase slider                             |
+| `Price`         | Tiered pricing plan cards                        |
+| `Reviews`       | Client feedback with carousel                    |
+| `Footer`        | Contact, social, links                           |
+| `ThemeToggle`   | Light/dark switcher                              |
+| `ScrollToTop`   | Animated scroll-to-top button                    |
+| `Sheet`, `Button` | UI primitives based on Radix & Tailwind        |
+
+
 
 ---
 
