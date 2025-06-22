@@ -1,33 +1,45 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 📘 E-Book Landing Page
 
-## Getting Started
+A fully responsive, dark-mode-ready digital e-book landing page built with **Next.js**, **Tailwind CSS**, and **TypeScript**. This modern, high-performance website promotes digital products (ebooks) and features interactive sections like pricing plans, reviews, benefits, and best sellers.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 📚 Table of Contents
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- [Demo](#demo)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Components Overview](#components-overview)
+- [Configuration](#configuration)
+- [Dependencies](#dependencies)
+- [Screenshots](#screenshots)
+- [Contributors](#contributors)
+- [License](#license)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🚀 Demo
 
-## Learn More
+![Live Link](https://e-book-dieqnxlnl-amrashraf15s-projects.vercel.app/)
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## ✨ Features
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- 📱 **Responsive Design** (mobile-first, fluid layouts)
+- 🌗 **Dark/Light Theme Toggle** using `next-themes`
+- ⚙️ Modular, Reusable **React Components**
+- 🎯 Scroll animations via AOS
+- 📈 Sections for: Hero, About, Benefits, Pricing, Reviews, and Best Sellers
+- 🧾 Testimonial Carousel with `react-multi-carousel`
+- 🧭 Mobile and Desktop Navigation Bars
+- ⬆️ Scroll-to-top FAB
+- ⚡ Optimized with `next/image` for fast performance
+
+---
+
+---
 
 ## Deploy on Vercel
 
